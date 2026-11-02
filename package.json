@@ -35,11 +35,11 @@
     "aider",
     "cli"
   ],
-  "author": "Léo Stewart",
+  "author": "Wasabee",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leostewart/aisync.git"
+    "url": "https://github.com/wasabeehq/aisync.git"
   },
   "engines": {
     "node": ">=22"
