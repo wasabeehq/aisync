@@ -1,6 +1,6 @@
 # aisync
 
-[![CI](https://github.com/leokun/aisync/actions/workflows/ci.yml/badge.svg)](https://github.com/leokun/aisync/actions/workflows/ci.yml)
+[![CI](https://github.com/wasabeehq/aisync/actions/workflows/ci.yml/badge.svg)](https://github.com/wasabeehq/aisync/actions/workflows/ci.yml)
 
 > Sync AI tool configurations between git worktrees.
 
